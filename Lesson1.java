@@ -32,9 +32,48 @@ public class Lesson1 {
 //        System.out.println(AgeFriend);
 //    }
 
-    public static void main(String[] args) {
+//    public static void main(String[] args) {
+//        // String s = "Merry";
+//        // System.out.println("Christmas");
+//        // System.out.println("Merry New");
+//        // System.out.println("weekend");
+//        System.out.print("Happy New");
+//        // System.out.println("weekend");
+//        // System.out.print(s);
+//        // System.out.print("Merry New!");
+//        System.out.print(" ");
+//        System.out.println("Year");
+//    }
 
-    }
+
+//    public static void main(String[] args) {
+//        int x = 2;
+//        int y = 12;
+//        // y = x * y;
+//        y = x + y;
+//        x = y - x;
+//        y = y - x;
+//
+//        System.out.println(x);
+//        System.out.println(y);
+//    }
+
+
+
+//    public static void main(String[] args) {
+//        int a = 3;
+//        int b = 2;
+//// System.out.print("два");
+// System.out.print(b);
+// System.out.print(" плюс ");
+//// System.out.print(" минус");
+// System.out.print(a);
+//// System.out.print("три");
+// System.out.print(" равно ");
+//// System.out.print(" будет ");
+//// System.out.print("пять");
+// System.out.print(a + b);
+//    }
 
 
 }
